@@ -76,26 +76,26 @@ The platform also provides nutritional analysis and helps users discover new mea
 ## Landing Page
 
 <p align="center">
-  <img src="./screenshots/landing-page.jpg" alt="Landing Page" width="900">
+  <img src="./screenshots/landing-page.jpg" alt="Landing Page" width="700">
 </p>
 
 ## Recipe Dashboard
 
 <p align="center">
-  <img src="./screenshots/dashboard.jpg" alt="Dashboard" width="900">
+  <img src="./screenshots/dashboard.jpg" alt="Dashboard" width="700">
 </p>
 
-## Ingredient Detection Results
+<!-- ## Ingredient Detection Results
 
 <p align="center">
   <img src="./screenshots/ingredient-detection.jpg" alt="Ingredient Detection" width="900">
-</p>
+</p> -->
 
-## Nutrition Analysis
+<!-- ## Nutrition Analysis
 
 <p align="center">
   <img src="./screenshots/nutrition-analysis.jpg" alt="Nutrition Analysis" width="900">
-</p>
+</p> -->
 
 ## Mobile Responsive View
 
