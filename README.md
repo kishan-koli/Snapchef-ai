@@ -99,8 +99,8 @@ The platform also provides nutritional analysis and helps users discover new mea
 
 ## Mobile Responsive View
 
-![Mobile View](./screenshots/mobile-view.jpg)
-
+<img src="screenshots/mobile-view.jpg"
+alt="Mobile View" width="300">
 ---
 
 # 🏗 System Architecture
