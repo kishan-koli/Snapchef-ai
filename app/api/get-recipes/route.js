@@ -41,7 +41,8 @@
 
 
 import { NextResponse } from "next/server";
-import genAI from "@/lib/gemini";
+// import genAI from "@/lib/gemini";
+import { model } from "@/lib/gemini";
 
 export async function POST(request) {
   try {
@@ -49,9 +50,9 @@ export async function POST(request) {
 
     const ingredients = body.ingredients;
 
-    const model = genAI.getGenerativeModel({
-      model: "gemini-1.5-flash",
-    });
+    // const model = genAI.getGenerativeModel({
+    //   model: "gemini-1.5-flash",
+    // });
 
     const result = await model.generateContent(`
       Suggest 3 recipes using these ingredients:
